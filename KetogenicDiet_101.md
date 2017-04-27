@@ -1,8 +1,9 @@
 # Ketogenic Diet 101
 
 ## Here's all you have to do to 'try' keto: just stop eating carbohydrates! 
-
 *This page isn't intended as a FAQ, it's just my tested, first hand experience and advice. I'm evolving this 101 as I learn. If you want your questions answered, go to [r/keto](http://www.reddit/com/r/keto)*
+
+*I'm a month into keto lifestyle at time of writing.*
 
 * __GOLDEN RULE: keep NET carbs (ie not including fiber) below ~20g a day__ 
     * this is required to engender and maintain proper ketosis
@@ -17,6 +18,7 @@
 * Your body will burn off the ~200g of stored glucose in liver and muscles and start using fats for energy in the first 24-48 hours
 * That glucose (glucagon) store also requires lots of spare water, which your body will consequently release, quickly: be prepared to piss like a racehorse over the next couple days and lose 5-10lbs of pure water from body weight! (My BP was a little lower after this too!)
 * You will start producing ketones (measurable in breath, urine and blood)
+    * ketostrips are an indicator that you're excreting ketones, but not accurate as a reliable guide to ketosis
 * You will probably get some kind of 'keto flu' which is a feeling of fatigue, headache, heat/coldness, and general malaise, mostly caused by 2 things:
     1. Low blood glucose, since your body is used to high carbs and is still secreting lots of insulin, which will cause glucose to be removed from blood. 
         - The resulting low blood sugar ('crash') will cause the 'panic' release of adrenalin (intended to restore emergency glucose to the blood) and you will experience the resulting trembly/sweaty/cold flushes that adrenalin causes. 
@@ -32,29 +34,35 @@
 * If you're doing any kind of muscular training (weights etc) you'll need additional protein, and also, your muscles retain water to repair themselves, and release later. This might cause apparent (temporary) weight gain but resolves with another 'whoosh' scenario!
 * Sleep disturbances: 
     * You'll probably need to pee more at night (I never did, before)
-    * I tend to wake early (4am) for no apparent reason, which is annoying. Haven't solved this yet.
-* Full keto adaptation supposedly takes 4-6 weeks
+    * I tend to wake early (~4am) for no apparent reason, which is annoying. Haven't solved this yet.
+* Full keto adaptation supposedly takes 4-6 weeks or longer. I feel great!
 
 ### Some coping strategies I've developed (mostly around meals):
 * **KCKO (Keep Calm, Keto On!)** Ultimately the key is to create for yourself an eating plan which allows you to meet your macros with the least friction and the most enjoyment
-* **Use a macro calculator** (like the one in the Reddit Keto FAQ) to calculate personal macros (for carbs, protein, fats), and recalculate every 10-15lbs weight loss
-* **Intermittent Fasting (IF)**: I eat lunch at 12, dinner before 8 and fast the rest of the time (black coffee and water in the morning, try to avoid snacking between meals to keep insulin really low). It's really not a penance!
+* **Use a macro calculator** (like the [one in the Reddit Keto FAQ](https://keto-calculator.ankerl.com/)) to calculate personal macros (for carbs, protein, fats), and recalculate every 10-15lbs weight loss
+    * In practice eating more fats means eating more mostly protein foods with fats incorporated (meat, fish, eggs, dairy, avocados, nuts) rather than over-consuming pure fats
+    * Give yourself permission to totally reset your expectations around food and meals. The established 'low fat, low animal, high carb, 3 meals per day' model is very ingrained!
+    * Learn to expect and eat less. Protein and fats are dense foods, and you need less volume to feel and stay satisfied
+* **Intermittent Fasting (IF)**: I eat lunch at 12, dinner before 8 and fast the rest of the time (black coffee and water in the morning, try to avoid snacking between meals to keep insulin really low). It's really not a penance! There are online support groups
+    * Some good keto-friendly snacks: nuts, jerky, raw celery/carrots/peppers and low-carb dips
 * **Gym/morning exercise** in fasted state helps 'kickstart' keto metabolism and also build muscle, which is a virtuous cycle
-* **Hack sleep too.** This is the 3rd pillar of health after exercise and keto (maybe the first actually). I'm going to bed earlier (10pm) and aiming for 8 hours, though I rarely achieve it
-* Give yourself permission to totally reset your expectations around food and meals. The established 'low fat, low animal, high carb, 3 meals per day' model is very ingrained!
-* Learn to expect and eat less. Protein and fats are dense foods, and you need less volume to feel and stay satisfied
-* **Meal Prep!** I find it hard to create interesting meals without carbs, and especially 'portable' ones (eg for lunch) because I'm used to using the carb foods to 'absorb' the rest of the macros
+* **Hack sleep too**. This is the 3rd pillar of health after exercise and keto (maybe the first pillar actually). I'm going to bed earlier (10pm) and aiming for 8 hours, though I rarely achieve it
+* **Meal Prep!** I find it hard to create interesting meals without carbs, and especially 'portable' ones (eg for lunch) because I'm used to using the carb foods to 'absorb' and bulk out the rest of the macros. On the other hand it's an opportunity to learn and invent!
 * **Salads!** I eat like a gallon volume (ok, hyperbole!) of leafy salads most days, as dinner. I chop a metric buttload of salad stuff one day, store it dry in the fridge, and eat it over the week. Add lean meats or fish for protein. Salad veg (lettuce, spinach, celery cucumber, tomatoes, bell peppers, radish etc) are all low carb, provide fiber and are loaded with good electrolytes, vitamins and minerals)
-* In practice eating more fats means eating more mostly protein foods with fats incorporated (meat, fish, eggs, dairy, avocados, nuts) rather than over-consuming pure fats
-* Don't go crazy with fiber. Your digestion will probably slow down since you're eating less, but adding more fiber can be counter-productive. I find the regular salads are enough to keep me regular!
+* **Don't go crazy with fiber**. Your digestion will probably slow down since you're eating less, but adding more fiber can be counter-productive. I find the regular salads are enough to keep me regular!
+* **Cheat meals or cheat days** aren't worth it. They are in direct opposition to your long-term goals - but don't beat yourself up over it.
+    * I think it's better to spontaneously allow yourself give in to temptation occasionally than plan to do so in advance!
+    * (I strangely don't find myself tempted to cheat much, because I know  those foods are verboten, and also because I make palatable alternatives available to myself)
+* **Social situations are tough**. Group events tend to feature 'rewards' of pizza, donuts and other junk! The material benefits of keto outweigh the temptations for me
+* Avoid eating out as much as possible until you've adjusted your habits and developed some strategies. Look ahead at online menus and plan
 * Alcohol tolerance will be impaired (I think due to the lower body fluid volume)
     * Also your body will metabolize alcohol in preference to fats so you aren't in ketosis while drunk!
-* Cheat meals or cheat days aren't worth it since they are in opposition to your goals - but don't beat yourself up over it
-* The social aspect is tough. Group events tend to feature 'rewards' of pizza, donuts and other junk! The material benefits of keto outweigh the temptations for me
-* Avoid eating out as much as possible until you've adjusted your habits
-* Travel is tough. Plan ahead. Look at menus and places available to figure out how to stay in keto. Intermittent Fasting helps - you don't need to always eat
-* **Don't Talk About Keto Club:** People will vary in support, some will be judgemental. Avoid explanations and evangelism (don't go 'vegan'). I find that just telling people I'm cutting down carbs and processed junk helps a lot
-* Vegetarianism is an ethical eating plan, not a nutritional one. It's possible but very difficult to do keto as a vegetarian/vegan. Decide which is more important to you at this time.
+    * Figure out some low-carb drinks ahead of time so you're not tempted to conform or and an order a beer out of lack of options
+        * My current choice is soda water + fresh-squeezed lime juice
+* **Travel is tough**. Plan ahead. Look at menus and meal choices available to figure out how to stay in keto. Intermittent Fasting helps - you don't need to always eat
+* **Don't Talk About Keto Club:** People will vary in support, some will be judgemental. Avoid explanations and evangelism (don't go 'vegan'). 
+    * I find that just telling people I'm cutting down carbs and processed junk helps a lot
+    * Vegetarianism is an ethical eating plan, not a nutritional one. It's possible but very difficult to do keto as a vegetarian/vegan. Decide which is more important to you at this time.
 
 ### Some other things are making sense now:
 * why in the past I always stayed or returned to being overweight no matter what approaches I tried
