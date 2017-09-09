@@ -12,6 +12,11 @@
 ### Kate Bush
 * Hounds of Love
 * Kick Indside
+* Aerial
+* The Dreaming
+* Never for Ever
+* Lionheart
+* 50 Words for Snow
 ### Deep Purple
 * Perfect Strangers
 * Stormbringer
