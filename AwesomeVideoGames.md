@@ -1,5 +1,5 @@
 ## AwesomeVideoGames
-Much-loved video games where I stayed the distance! (No idea of play order any more. So. Alphsnumeric).
+Much-loved video games where I stayed the distance! (No idea of play order any more. So. Alphanumeric).
 
 | Game | Platform | Cheats to complete? | Walkthrough? |
 |:--|:--|:--|:--|
