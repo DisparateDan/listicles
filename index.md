@@ -1,4 +1,5 @@
 # Existing Listicles:
+* [AlbumsICantStopListeningTo.md](AlbumsICantStopListeningTo.html)
 * [AwesomeGenreBooks.md](AwesomeGenreBooks.html)
 * [AwesomeVideoGames.md](AwesomeVideoGames.html)
 * [GearAcquisitionSyndrome.md](GearAcquisitionSyndrome.html)

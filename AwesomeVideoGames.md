@@ -1,6 +1,8 @@
 ## AwesomeVideoGames
 Much-loved video games where I stayed the distance! (No idea of play order any more. So. Alphanumeric).
 
+Not included (yet): mobile games.
+
 | Game | Platform | Cheats to complete? | Walkthrough? |
 |:--|:--|:--|:--|
 | Anachronox | PC | No | No |
@@ -35,4 +37,5 @@ Much-loved video games where I stayed the distance! (No idea of play order any m
 | System Shock II | PC/Mac | yes | No |
 | Ultima Underworld | PC | No | Yes |
 | Ultima Underworld II | PC | No | Yes |
+| World of Warcraft | Mac | No | Yes!! |
 | Zelda: Ocarina of Time | Gamecube | No | Yes |
