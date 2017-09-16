@@ -2,6 +2,7 @@
 * [AlbumsICantStopListeningTo.md](AlbumsICantStopListeningTo.html)
 * [AwesomeGenreBooks.md](AwesomeGenreBooks.html)
 * [AwesomeVideoGames.md](AwesomeVideoGames.html)
+* [ElricKindleReadingGuide.md](ElricKindleReadingGuide.html)
 * [GearAcquisitionSyndrome.md](GearAcquisitionSyndrome.html)
 * [KetogenicDiet_101.md](KetogenicDiet_101.html)
 * [README.md](README.html)

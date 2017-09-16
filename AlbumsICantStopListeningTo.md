@@ -11,7 +11,7 @@
 * Sabotage
 ### Kate Bush
 * Hounds of Love
-* Kick Indside
+* Kick ¢∞side
 * Aerial
 * The Dreaming
 * Never for Ever
