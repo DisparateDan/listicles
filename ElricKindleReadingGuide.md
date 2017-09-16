@@ -12,7 +12,7 @@ Enjoy.
 * [BOOK 3] **The Sleeping Sorceress**
 * [BOOK 4] **Duke Elric**
 * [BOOK 5] **In the Dream Realms**
-* [BOOK 6] **Swords and Roses **
+* [BOOK 6] **Swords and Roses**
 
 ### Chronological Narrative Order - Canonical Titles
 * **Elric of Melniboné**  [BOOK 3]
@@ -25,13 +25,14 @@ Enjoy.
 1. **Stormbringer**
 1. **Elric at the End of Time** [BOOK 2]
 
-### Recommended Reading Order and Where to Find Them in 'The Chronicles'
+### Recommended Reading Order and Where to Find Them in 'The Chronicles' on Kindle
 1. **Elric of Melniboné**  [BOOK 3]
 1. **The Weird of the White Wolf**
   	1. The Dreaming City [BOOK 1]
   	1. While the Gods Laugh [BOOK 1]
   	1. The Singing Citadel [BOOK 2]
   	1. The Jade Man's Eyes [BOOK 2]
+  	1. To Rescue Tanelorn [BOOK 2]
 1.  **The Sleeping Sorceress** (The Vanishing Tower)
 	1. The Torment of the Last Lord [BOOK 3]
 	1. To Snare the Pale Prince [BOOK 3]
@@ -40,7 +41,6 @@ Enjoy.
 	1. The Stealer of Souls [BOOK 1]
 	1. Kings in Darkness [BOOK 1]
 	1. The Flame Bringers (The Caravan of Forgotten Dreams) [BOOK 1]
-	1. To Rescue Tanelorn [BOOK 2]
 1. **Stormbringer**
 	1. Dead God's Homecoming [BOOK 1]
 	1. Black Sword's Brothers [BOOK 1]
