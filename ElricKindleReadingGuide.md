@@ -34,10 +34,10 @@ Enjoy.
 1. **The Sailor on the Seas of Fate** [BOOK 4]
 1. **The Weird of the White Wolf**
 	1. The Dreaming City [BOOK 1]
-        1. While the Gods Laugh [BOOK 1]
-        1. The Singing Citadel [BOOK 2]
-        1. The Jade Man's Eyes [BOOK 2]
-        1. To Rescue Tanelorn [BOOK 2]
+	1. While the Gods Laugh [BOOK 1]
+	1. The Singing Citadel [BOOK 2]
+	1. The Jade Man's Eyes [BOOK 2]
+	1. To Rescue Tanelorn [BOOK 2]
 1. **The Sleeping Sorceress** (AKA The Vanishing Tower)
 	1. The Torment of the Last Lord [BOOK 3]
 	1. To Snare the Pale Prince [BOOK 3]
