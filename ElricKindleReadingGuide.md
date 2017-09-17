@@ -52,6 +52,6 @@ Enjoy.
 	1. Sad Giant's Shield [BOOK 1]
 	1. Doomed Lord's Passing [BOOK 1]
 1. **Elric at the End of Time** [BOOK 2]
-** (Personally I recommend skipping this one unless you are a completist or are familiar with the Dancers at the End of Time cycle)
+  * (Personally I recommend skipping this one unless you are a completist or are familiar with the Dancers at the End of Time cycle)
 1. **The Fortress of the Pearl** [BOOK 5]
 1. **The Revenge of the Rose** [BOOK 6]
