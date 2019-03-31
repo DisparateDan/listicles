@@ -1,12 +1,13 @@
 ## AwesomeGenreBooks
 ### SF:
-*  Douglas Adams: *H2G2, Dirk Gently*
+* Douglas Adams: *H2G2, Dirk Gently*
 * Poul Anderson: *Tau Zero*
 * Neal Asher: *Ian Cormac/Polity series, Prador series, SpatterJay series, etc*
 * Isaac Asimov: *Foundation books, Robot series*
 * Alfred Bester: *The Stars My Destination*
 * Max Brooks: *World War Z*
 * Arthur C Clarke: *2001 series, Rama series*
+* James S. A. Corey: *Expanse series*
 * Stephen Donaldson:  *Gap Series*
 * Peter F Hamilton: *Reailty Dysfunction, Commonwealth Saga I (Judas), Commonwealth Saga II (Dreaming Void), Greg Mandel series*
 * Robert Heinlein: *Stranger in a Strange Land, Number of the Beast*
@@ -42,7 +43,7 @@
 * Dan Simmons: *The Terror*
 * Bram Stoker: *Dracula*
 
-### General:
+### General/Mainstream:
 * Bernard Cornwell: *Warlord Chronicles, Grail Quest chronicles, Sharpe series, Starbuck series, everything!*
 * Nick Harkaway, *Angelmaker*
 * Thomas Harris: *Hannibal Lecter series*
