@@ -5,6 +5,4 @@
 * [ElricKindleReadingGuide.md](ElricKindleReadingGuide.html)
 * [KetogenicDiet_101.md](KetogenicDiet_101.html)
 * [KnifeKnutList.md](KnifeKnutList.html)
-* [README.md](README.html)
 * [YoutubeChannels.md](YoutubeChannels.html)
-* [index.md](index.html)
