@@ -21,16 +21,20 @@
 ### Fantasy:
 * Poul Anderson: *The Broken Sword, Thee Hearts and Three Lions*
 * Clive Barker: *Weaveworld, Imajica*
+* CJ Cherryh: *Morgaine chronicles*
 * Stephen Donaldson: *Thomas Covenant series*
 * Neil Gaiman: *American Gods, Ananzi Boys*
 * Lev Grossman: *The Magicians series*
 * Robert Holdstock: *Mythago Wood series, Merlin Codex series*
 * Stephen King: *The Talisman*
-* China Mieville: *Perdito St Station*
+* Scott Lynch: *Gentleman Bastards series*
+* China Mieville: *Perdido St Station, The Scar*
 * Michael Moorcock: *Elric series (especially the 'classic' ones), Corum, Hawkmoon/Runestaff, Von Bek, Eternal Champion, Danders at the End of Time*
+* Terry Pratchett: *Discworld series*
 * Patrick Rothfuss: *Kingkiller Chronicles*
 * Robert Silverberg: *Majipoor Chronicles*
 * JRR Tolkien: *The Hobbit, LOTR, The Silmarillion* (nothing else comes close, IMO, but...)
+* Jack Vance: *Tales of the Dying Earth*
 * Gene Wolfe: *Books of the New Sun*
 * Roger Zelazny: *Chronicles of Amber*
 
@@ -47,5 +51,9 @@
 * Bernard Cornwell: *Warlord Chronicles, Grail Quest chronicles, Sharpe series, Starbuck series, everything!*
 * Nick Harkaway, *Angelmaker*
 * Thomas Harris: *Hannibal Lecter series*
+* Stieg Larsson: *Millenium series*
 * George MacDonald Fraser: *Flashman Papers*
-* Neal Stephenson: *Cryptonomicon*
+* Arturo Perez-Reverte: *The Club Dumas*
+* Neal Stephenson: *Cryptonomicon, The Baroque Cycle*
+* Eric Van Lustbader: *The Ninja (Nicholas Linnear series)*
+
