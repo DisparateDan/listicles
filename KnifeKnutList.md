@@ -11,7 +11,6 @@
 * Bugout with Rouge Bladeworks CF scales
 
 ### Boos Blades
-* Smoke TM1, black/stonewash
 * Smoke CM1, bronze/stonewash
 
 ### Gareth Bull
@@ -92,6 +91,7 @@
 * Mini-tolk, bronze scales with copper highlights
 
 ### Spyderco
+* PM2 (many!)
 * Slysz Bowie
 * Brouwer
 * Subvert
