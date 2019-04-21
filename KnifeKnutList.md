@@ -41,6 +41,7 @@
 ### Cheburkov
 * Russki bronze
 * Small Strizh in bronze with san mai patter blade
+* Small Strizh with CF scales
 
 ### Chris Reeve Knives
 * Large Sebenza 25
@@ -62,6 +63,9 @@
 ### Koenig
 * Arius CF Red Speckle and hand-rubbed satin blade
 
+### Marfione
+* Sigil custom with blued damasteel overtravel stop
+
 ### MBK
 * Laconico Minipin
 
@@ -70,12 +74,14 @@
 * Wayferer 247
 * Wayfarer Compact, white micarta/polished zirconium bolster
 
+### PWD
+* Badger
+
 ### Peter Rassenti
 * Druid, dark Damasteel
 
 ### Reate
 * Future, timascus & damasteel
-* Baby Machine
 * Wave
 
 ### Shirogorov
@@ -97,12 +103,7 @@
 * Evolver, CF scales & Damasteel
 
 ### WE
-* Isham Zeta
 * Isham Pleroma
-
-### Viper
-* Anso Orso, CF scales, satin blade
-* Anso Orso, Titanium scales, stonewash blade
 
 ### Zero Tolerance
 * Sinkevitch ZT0452 'bluti'
