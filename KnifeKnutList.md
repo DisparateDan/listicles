@@ -8,13 +8,13 @@
 
 ### Benchmade
 * Anthem
-* Bugout with Rouge Bladeworks CF scales
+* Bugout with Rogue Bladeworks CF scales
 
 ### Boos Blades
 * Smoke CM1, bronze/stonewash
 
 ### Gareth Bull
-* Shamwari Boomerang CF 3.3"
+* Shamwari 3.3" Boomerang with CF scales/orange peel liners
 * Miura - CF/Titanium Hakkapella Damasteel 3.6" 
 
 ### Trevor Burger
