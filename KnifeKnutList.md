@@ -7,7 +7,6 @@
 * NEO in bronze/timascus with handrubbed satin blade
 
 ### Benchmade
-* Anthem
 * Bugout with Rogue Bladeworks CF scales
 
 ### Boos Blades
@@ -33,6 +32,7 @@
 * Rassenti Satori (w custom andodization)
 * Snex Terra with blue anodization
 * Sukoi 3 'Dominance'
+* Switch (Tuff Knives collab)
 
 ### Chavez
 * Ultramar Rendicion Tanto (w customized clip)
@@ -49,18 +49,25 @@
 ### Curtiss Custom
 * Large F3 Wharncliffe with burn pattern scales
 
-## Giantmouse
+### Giantmouse
 * GM2 (CF scale)
 * GM3
 
-### Jason Guthrie
-* Scout, brown micarta, lightening holes, satin wharncliffe blade
+### Green Thorn
+* Microtech Anaz CLONE in black/gold, D2
+
+### Jessie Jarosz
+* M75, brown G10 scales, 154CPM
 
 ### Holt Bladeworks
 * Specter Refined, aged bronze patina, near mirror blade
 
+### Jason Guthrie
+* Scout, brown micarta, lightening holes, satin wharncliffe blade
+
 ### Koenig
 * Arius CF Red Speckle and hand-rubbed satin blade
+* Arius Style 55
 
 ### Marfione
 * Sigil custom with blued damasteel overtravel stop
@@ -80,6 +87,7 @@
 * Druid, dark Damasteel
 
 ### Reate
+* Crossroads, Marble CF/Zirconium
 * Future, timascus & damasteel
 * Wave
 
@@ -96,11 +104,11 @@
 * Brouwer
 * Subvert
 
-### Mick Strider
-* SNG, Green G10, tiger stripe lock scale
-
 ### Pieter Swanepoel
 * Evolver, CF scales & Damasteel
+
+### Walter Wells
+* Custom in two-tone micarta, 20CV
 
 ### WE
 * Isham Pleroma
