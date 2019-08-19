@@ -14,12 +14,14 @@ Much-loved video games where I stayed the distance! Most of these I've played th
 | Doom | PC | Yes | No |
 | Doom 3 | PC | No | No |
 | Dungeon Keeper | PC | No | No |
+| Elite | Sinclair Spectrum | No | No |
 | Fairlight | Sinclair Spectrum | No | No |
 | Final Fantasy VII | PC | No | Yes |
 | Half Life | PC | Yes | No |
 | Half Life 2 | PC/Mac | No | No |
 | Half Life 2 Ep. 1 | Mac | Yes | No |
 | Half Life 2 Ep. 2 | Mac | Yes | No |
+| Legend (The Four Crystals of Trazere)| PC | No | No |
 | Lifeless Planet | Mac (Steam)| No | No |
 | Mario & Luigi | Gameboy SP | No | No |
 | Metroid II | Gameboy SP | No | No |
@@ -31,7 +33,7 @@ Much-loved video games where I stayed the distance! Most of these I've played th
 | Quake II | PC | Yes | No |
 | Quake III | PC | No | No |
 | Quake IV | Mac? | Yes | No |
-| The Room, I-IV | iOS? | No | No |
+| The Room, I-V | iOS | No | No |
 | Skyrim | Mac (Steam/Wineskin) | Yes | Yes |
 | Solstice | SNES | Game Genie | No |
 | Super Mario | SNES | No | No |
