@@ -3,6 +3,7 @@ Much-loved video games where I stayed the distance! Most of these I've played th
 
 | Game | Platform | Cheats to complete? | Walkthrough? |
 |:--|:--|:--|:--|
+| Alone in the Dark | PC | No | No |
 | Anachronox | PC | No | No |
 | Antichamber | Mac (Steam) | No | No |
 | AticAtac | Sinclair Spectrum | No | No |
