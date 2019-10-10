@@ -3,31 +3,30 @@ Guaranteed watchable/rewatchable horror movies!
 
 | Title | Genre(s) | Fear Factor | Jump Scares | Gore |
 |:--|:--|:--|:--|
-
-### A
+| A |
 | A Dark Song | Occult/Magic | ** | * | * |
 
-### B
+| B |
 | The Babadook | Haunting | **** | *** | *** |
 
-### C
+| C |
 | The Conjuring | Haunting | **** | *** | * |
 | The Conjuring II | Haunting | **** | *** | **
 
-### E
+| E |
 | The Exorcist (1973) | Possession | ** | * | ** |
 | The Exorcist III/Legion (1990) | Possession | *** | ** | *** |
 
-### H
+| H |
 | The Haunting (1963) | Haunted House | ***** | ** | * |
 | The Haunting (1999) | Haunted House | *** | *** | ** |
 
-### I
+| I |
 | Insidious | Haunting | *** | **** | ** |
 | Insidious II | Haunting | *** | **** | ** |
 
-### L
+| L |
 | The Last Exorcism | Possession | ** | * | * |
 
-### T
+| T |
 | Thirteen Ghosts | Haunted House | ** | ** | ** |
