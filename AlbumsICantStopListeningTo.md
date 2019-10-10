@@ -106,6 +106,18 @@
 ### Dave Lee Roth
 * Eat 'Em & Smile
 * A Little Ain't Enough
+### Rush
+* 2112
+* Caress of Steel
+* Clockwork Angels
+* A Farewell to Kings
+* Grace Under Pressure
+* Hemispheres
+* Moving Pictures
+* Permanent Waves
+* Power Windows
+* Roll the Bones
+* Signals
 ### Skid Row
 * Slave to the Grind
 * Subhuman Race
