@@ -5,4 +5,5 @@
 * [ElricKindleReadingGuide.md](ElricKindleReadingGuide.html)
 * [HighHorror.md](HighHorror.html)
 * [KetogenicDiet_101.md](KetogenicDiet_101.html)
+* [WorkshopDIYProjects.md](WorkshopDIYProjects.html)
 * [YoutubeChannels.md](YoutubeChannels.html)
